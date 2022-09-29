@@ -1,5 +1,5 @@
 # Data structure and object-oriented programming
-This course was taught by S. K. Wong in the summer semester of 2021. 
+This course was taught by S. K. Wong in summer semester of 2021. 
 
 Lab 1: Namespace
 
