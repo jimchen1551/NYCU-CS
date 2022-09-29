@@ -1,0 +1,18 @@
+15
+a Abby 150 50
+a Benny 167 59
+a Lucas 200 100
+a Adam 167 66
+a Ryan 167 90
+a Aurora 156 48
+a Levi 150 44
+a Sarah 170 60
+a Joseph 177 70
+a Zoey 144 45
+a Abby 170 50
+f Joseph
+f Gary
+e Joseph
+e Gary
+
+

@@ -1,0 +1,43 @@
+Sort By Name
+Abby:	170, 50
+Adam:	167, 66
+Aurora:	156, 48
+Benny:	167, 59
+Levi:	150, 44
+Lucas:	200, 100
+Ryan:	167, 90
+Sarah:	170, 60
+Zoey:	144, 45
+
+Sort By Height
+Zoey:	144, 45
+Levi:	150, 44
+Aurora:	156, 48
+Benny:	167, 59
+Adam:	167, 66
+Ryan:	167, 90
+Abby:	170, 50
+Sarah:	170, 60
+Lucas:	200, 100
+
+Sort By Weight
+Levi:	150, 44
+Zoey:	144, 45
+Aurora:	156, 48
+Abby:	170, 50
+Benny:	167, 59
+Sarah:	170, 60
+Adam:	167, 66
+Ryan:	167, 90
+Lucas:	200, 100
+
+Sort By Height&Weight
+Zoey:	144, 45
+Levi:	150, 44
+Aurora:	156, 48
+Benny:	167, 59
+Adam:	167, 66
+Ryan:	167, 90
+Abby:	170, 50
+Sarah:	170, 60
+Lucas:	200, 100
