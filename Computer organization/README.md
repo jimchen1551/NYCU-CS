@@ -1,5 +1,5 @@
 # Computer organization
-This course was taught by J. J. Shann in the summer semester of 2022.
+This course was taught by J. J. Shann in summer semester of 2022.
 
 Lab 1: MIPS Programming
 
